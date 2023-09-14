@@ -1,0 +1,18 @@
+.container {
+    padding: 20px;
+}
+
+.menu {
+    margin-bottom: 10px;
+    display: flex;
+    gap: 10px;
+}
+
+.col-sm-6 {
+    padding: 20px;
+}
+
+.attendance_list_header {
+    display: flex;
+    justify-content: space-between;
+}

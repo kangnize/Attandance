@@ -1,0 +1,9 @@
+.create_employee_form {
+    width: 50%;
+}
+
+.create_employee {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
